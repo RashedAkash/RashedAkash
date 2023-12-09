@@ -44,11 +44,10 @@ Skills: JAVASCRIPT / REACT / NEXT JS(Basic) / HTML / CSS / TAILWIND CSS / MATERI
  
 
   
-<h2 align="left">Trophy:</h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=RashedAkash)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAkash)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAkash&show_icons=true)  
+
 
 
