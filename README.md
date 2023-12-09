@@ -11,7 +11,7 @@ Skills: JAVASCRIPT / REACT / NEXT JS(Basic) / HTML / CSS / TAILWIND CSS / MATERI
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RashedAkash&theme=shadow-blue)](https://git.io/streak-stats)
   
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RashedAkash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/akash.stk.3/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="fill: #00FFFF">](https://github.com/RashedAkash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style="fill: #00FFFF">](https://www.facebook.com/https://www.facebook.com/akash.stk.3/)  
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashedAkash&theme=2077)
