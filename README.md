@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Rashed Hossain
-#### I am JavaScript developer.
+## Hi there 👋, my name is Rashed Hossain
+### I am JavaScript developer.
 ![I am JavaScript developer.](https://i.postimg.cc/52r7h1cH/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 I thrive on translating innovative ideas into reality using React's powerful features. From mastering JSX, components, state management, and hooks (think useState, useEffect, useContext) to navigating complex routing and implementing scalable solutions, React is my playground.
