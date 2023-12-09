@@ -1,8 +1,6 @@
-
-(https://i.postimg.cc/52r7h1cH/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 ### Hi there 👋, my name is Rashed Hossain
 #### I am JavaScript developer.
-![I am JavaScript developer.]
+![I am JavaScript developer.](https://i.postimg.cc/52r7h1cH/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 I thrive on translating innovative ideas into reality using React's powerful features. From mastering JSX, components, state management, and hooks (think useState, useEffect, useContext) to navigating complex routing and implementing scalable solutions, React is my playground.
 
@@ -19,12 +17,9 @@ Skills: JAVASCRIPT / REACT / NEXT JS(Basic) / HTML / CSS / TAILWIND CSS / MATERI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAkash)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAkash&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/RashedAkash/contributions?format=svg&private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAkash&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/RashedAkash)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RashedAkash)  
-
 
