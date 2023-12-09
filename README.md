@@ -8,8 +8,8 @@ Skills: JAVASCRIPT / REACT / NEXT JS(Basic) / HTML / CSS / TAILWIND CSS / MATERI
 
 ### 🌱 I’m currently learning NEXT JS
 ### 👯 I’m looking - To collaborate on open source projects.
-### 🤔 I’m trying - To help people learn web development.
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+
+
 
 ###  Current Stats
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RashedAkash&theme=shadow-blue)](https://git.io/streak-stats)
